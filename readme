@@ -1,5 +1,3 @@
-Got it! Here's a comprehensive README for your project, based on the details you've shared:
-
 ---
 
 # Project Name: **Expo App with React Query, Zustand, and TW-RNC Styling**
